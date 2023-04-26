@@ -1,0 +1,6 @@
+{
+    "id" : 1,
+    "email" : "cosme@fulanito.fox",
+    "password" : "secreto",
+    "is_admin" : false
+}
